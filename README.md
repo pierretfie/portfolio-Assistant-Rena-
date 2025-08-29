@@ -16,6 +16,7 @@ This integration uses an n8n workflow featuring **Rena**, a digital AI assistant
 - The portfolio triggers an n8n workflow.
 - The workflow routes messages to Rena (AIAS) and returns responses to the site.
 - Selected conversations can be forwarded to email.
+ <img width="1046" height="511" alt="Screenshot From 2025-08-29 07-33-05" src="https://github.com/user-attachments/assets/d6be610b-3581-4f8a-ae76-9cfb30fc3077" />
 
 ## Prerequisites (if you want to replicate)
 - n8n instance (self-hosted or cloud)
